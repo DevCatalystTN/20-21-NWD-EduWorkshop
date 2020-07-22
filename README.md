@@ -1,5 +1,5 @@
 # Novice Web Dev (Level 1 and Level 2)
-A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
+A repo for Dev Catalyst's 2020-2021 Educator Workshop over Novice Web Development.
 
 ## [Slideshow Link (Level 1)](https://docs.google.com/presentation/d/1ng9DQOSKpOaCMLVg-BbbqEcty6UC6mHbSsKLGVdssog/edit?usp=sharing)
 
