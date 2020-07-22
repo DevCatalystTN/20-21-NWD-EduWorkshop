@@ -5,9 +5,9 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
 ## Dev Catalyst Competition
 - [Novice Web Dev Course Outline](https://drive.google.com/open?id=1vZ7oxtpyHaJ-ztBgEf1i9Btr3xkBBORz)
-- [2019-2020 Competition Guidelines](https://drive.google.com/open?id=1x4yOgbKGRqBLYWZYGYhnZhYgxZsHjK7gNg6gnU6gCxU)
-- [2019-2020 Awards and Prizes](https://drive.google.com/open?id=13DjWTDpAkhNKGBeycAqeNcYogUDhYGoBLsKJjtgne5E)
-- [2019 San Francisco Trip Video](https://drive.google.com/open?id=167h04rDwMOAn92zkHA0dX0Ityobq8Keh)
+- [2020-2021 Competition Guidelines](https://drive.google.com/open?id=1x4yOgbKGRqBLYWZYGYhnZhYgxZsHjK7gNg6gnU6gCxU)
+- [2020-2021 Awards and Prizes](https://drive.google.com/open?id=13DjWTDpAkhNKGBeycAqeNcYogUDhYGoBLsKJjtgne5E)
+- [2020 Awardaganza Video](https://drive.google.com/open?id=167h04rDwMOAn92zkHA0dX0Ityobq8Keh)
 
 ## UX
 - [Persona Worksheet](https://drive.google.com/open?id=170uwoHgZFiqz6Bjb-CzXE-6YXcEYUIi6)
