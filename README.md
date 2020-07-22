@@ -1,7 +1,7 @@
 # Novice Web Dev (Level 1 and Level 2)
 A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
-## [Slideshow Link (Level 1)](https://docs.google.com/presentation/d/1QcYZM3fN4BWrHp--3yqaPkygZa3qn_JE4eGsDpGbJpo/edit?usp=sharing)
+## [Slideshow Link (Level 1)](https://docs.google.com/presentation/d/1ng9DQOSKpOaCMLVg-BbbqEcty6UC6mHbSsKLGVdssog/edit?usp=sharing)
 
 ## Dev Catalyst Competition
 - [Novice Web Dev Course Outline](https://drive.google.com/open?id=1vZ7oxtpyHaJ-ztBgEf1i9Btr3xkBBORz)
@@ -30,7 +30,7 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Google Fonts](https://fonts.google.com/) - for finding fonts to like in HTML
 - [Font Awesome](https://fontawesome.com/) - for icons to use in website
 
-## [Slideshow Link (Level 2)](https://docs.google.com/presentation/d/19QJ9sMA2_xQq-yWXwAm31GxOnkd3M9U4INzePwWTTpI/edit?usp=sharing)
+## [Slideshow Link (Level 2)](https://docs.google.com/presentation/d/1bATHO5uELP6Rn0M9hjHM5Z0sayFuFOUMWeW1c6qevDY/edit?usp=sharing)
 
 ## JavaScript Code Snippets
 - JavaScript in Action
