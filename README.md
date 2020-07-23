@@ -3,11 +3,18 @@ A repo for Dev Catalyst's 2020-2021 Educator Workshop over Novice Web Developmen
 
 ## [Slideshow Link](https://docs.google.com/presentation/d/1ng9DQOSKpOaCMLVg-BbbqEcty6UC6mHbSsKLGVdssog/edit?usp=sharing)
 
-## Dev Catalyst Competition
+## Helpful Links
 - [Novice Web Dev Course Outline](https://drive.google.com/open?id=1vZ7oxtpyHaJ-ztBgEf1i9Btr3xkBBORz)
 - [2020-2021 Competition Guidelines](https://drive.google.com/open?id=1x4yOgbKGRqBLYWZYGYhnZhYgxZsHjK7gNg6gnU6gCxU)
 - [2020-2021 Awards and Prizes](https://drive.google.com/open?id=13DjWTDpAkhNKGBeycAqeNcYogUDhYGoBLsKJjtgne5E)
-- [2020 Awardaganza Video](https://drive.google.com/open?id=167h04rDwMOAn92zkHA0dX0Ityobq8Keh)
+- [2020 Awardaganza Video]() - coming soon
+
+## Section 1: Learn the Basics
+- [Student Onboarding](https://drive.google.com/file/d/1uirKuVT7oG5Gow9EGdl-dZi6fMQcXckM/view?usp=sharing)
+- [1.1.1 Survey](https://app.devcatalyst.com/course/lesson-01-front-end-vs-back-end-development)
+- [1.1.1 Video and Activity](https://app.devcatalyst.com/course/lesson-01-front-end-vs-back-end-development)
+- [1.1.2 Video and Activity](https://app.devcatalyst.com/course/lesson-02-what-is-code)
+- 
 
 ## UX
 - [Persona Worksheet](https://drive.google.com/open?id=170uwoHgZFiqz6Bjb-CzXE-6YXcEYUIi6)
